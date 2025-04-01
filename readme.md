@@ -15,10 +15,10 @@ FunkyWizard é uma aplicação desenvolvida para facilitar a vida dos programado
 
 ## Colaboradores
 
-| Front-End | Back-End | Back-End | Designer |
+| Front-End | Back-End | Back-End | Designer | Back-End | 
 |:---------:|:--------:|:--------:|:--------:|
-| [![Guilherme Braga](https://avatars.githubusercontent.com/u/89932943?v=4)](https://github.com/guilhermevnbraga) | [![Gustavo](https://avatars.githubusercontent.com/u/110403830?v=4)](https://github.com/Gust4voSSM) | [![Danilo Barrote](https://avatars.githubusercontent.com/u/175836607?v=4)](https://github.com/danilobarrote) | [![Guilherme José](https://avatars.githubusercontent.com/u/175838250?v=4)](https://github.com/Guilhermejose749) |
-|    **Guilherme Braga**    |    **Gustavo Santiago**    |    **Danilo Barrote**    |    **Guilherme José**    |
+| [![Guilherme Braga](https://avatars.githubusercontent.com/u/89932943?v=4)](https://github.com/guilhermevnbraga) | [![Gustavo](https://avatars.githubusercontent.com/u/110403830?v=4)](https://github.com/Gust4voSSM) | [![Danilo Barrote](https://avatars.githubusercontent.com/u/175836607?v=4)](https://github.com/danilobarrote) | [![Guilherme José](https://avatars.githubusercontent.com/u/175838250?v=4)](https://github.com/Guilhermejose749) | [![Thiago Luiz](https://avatars.githubusercontent.com/u/170187832?v=4)](https://github.com/thdruid) |
+|    **Guilherme Braga**    |    **Gustavo Santiago**    |    **Danilo Barrote**    |    **Guilherme José**    |  **Thiago Luiz**  | 
 
 ## Especificação inicial + evolução dos ciclos e do backlog
 
@@ -79,7 +79,6 @@ Logo, o backlog final foi composto de:
 -   **Axios** e **JSDOM** para manipulação de dados e integração de APIs
 -   **dotenv** para gerenciamento de variáveis de ambiente
 -   **Prisma** para implementação do Banco de dados
--   **Vitest** para testes automáticos de unidade
 
 ## Dívida técnica
 
